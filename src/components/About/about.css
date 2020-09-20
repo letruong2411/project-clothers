@@ -1,0 +1,43 @@
+.noidung-about{
+    width: 85%;
+    height: auto;
+    margin: 100px;
+    overflow: hidden;
+}
+.noidung-about img{
+    width: 100%;
+    height: auto;
+}
+.noidung-about h3{
+    margin-top: 30px;
+    margin-bottom: 25px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.noidung-about p{
+    font-size: 16px;
+    color: gray;
+    font-family: 'Times New Roman', Times, serif;
+}
+.noidung-about .designer{
+    width: 85%;
+    height: auto;
+    margin-top: 50px;
+    overflow: hidden;
+}
+.designer div{
+    height: auto;
+    margin: 100px;
+    margin-left: 300px;
+    margin-top: 50px;
+    color: black;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 16px;
+    float: left;
+}
+.designer h2{
+    margin-bottom: 20px;
+}
+.designer img{
+    width: 200px;
+    height: 250px;
+}

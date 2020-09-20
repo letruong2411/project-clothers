@@ -1,0 +1,84 @@
+.contaner-cart{
+    width: 85%;
+    height: auto;
+    margin: 50px 100px;
+}
+.contaner-cart h2{
+    font-family: 'Times New Roman', Times, serif;
+    text-transform: uppercase;
+}
+.contaner-cart table, tr, th{
+    border: 1px solid #DDDDDD;
+}
+.contaner-cart table{
+    border-collapse:collapse;
+    width: 100%;
+    height: auto;
+    margin-top: 50px;
+}
+.contaner-cart table tr th{
+    padding: 30px;
+}
+.contaner-cart table tr th img{
+    width: 120px;
+    height: 150px;
+}
+.contaner-cart table tr th a img{
+    width: 25px;
+    height: 30px;
+}
+.contaner-cart table tr th a{
+    font-size: 20px;
+    text-decoration: none;
+    color: orangered;
+    font-family: 'Times New Roman', Times, serif;
+}
+.contaner-cart table tr th p, span{
+    font-size: 20px;
+    text-decoration: none;
+    font-family: 'Times New Roman', Times, serif;
+}
+.contaner-cart .soluong button a{
+    color: black;
+    font-size: 20px;
+    font-weight: bold;
+    text-decoration: none;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: orangered;
+    padding: 0px 10px;
+    border-radius: 10px;
+}
+.contaner-cart .soluong input{
+    width: 35px;
+    height: 20px;
+    font-size: 15px;
+    border: 1px solid gray;
+}
+.contaner-cart .listsize{
+    width: 40px;
+    height: 20px;
+    border: 1px solid gray;
+}
+
+/** css btn checkout**/
+.contaner-cart .btn-checkout{
+    float: right;
+    margin-top: 10px;
+    padding: 5px 20px;
+    border-radius: 30px;
+    background-color: orangered;
+}
+.contaner-cart .btn-checkout{
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+    font-family: 'Times New Roman', Times, serif;
+    text-transform: uppercase;
+    font-size: 14px;
+    transition: 1s;
+}
+.contaner-cart .btn-checkout:hover{
+    color: black;
+    font-weight: bold;
+    transition: 1s;
+}
